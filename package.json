@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "await": "^0.2.6",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "pg": "^8.11.5",
+    "session": "^0.1.0"
+  },
+  "name": "school-web",
+  "version": "1.0.0",
+  "description": "website for school",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Amulya raj",
+  "license": "ISC"
+}
